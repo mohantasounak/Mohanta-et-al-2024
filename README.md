@@ -1,5 +1,5 @@
 # Mohanta-et-al-2024
-Code for Mohanta et al. 2024 preprint
+Code for Mohanta et al. 2024 preprint https://www.biorxiv.org/content/10.1101/2024.01.09.574848v1
 
 # Introduction
 In this reserch article we looked at how traveling waves across cortex shape predictive learning.
